@@ -2,7 +2,7 @@
 
 <img width="460" height="460" alt="IMG_9362" src="https://github.com/user-attachments/assets/abe0dd55-57e4-4b85-af02-8bd7098aac7a" />
 
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/starpowertechnology/youtube-whisperer-v1-5?scriptVersionId=306051790)
 
 This framework is for autonomous societies, groupchats & independent autonomy. I had the vision for agents to work together freely about a year ago .. now that they are already popular i figured i release this for anyone interested the behavior of  a language when given full freedom to decide every decision. 
 
