@@ -1,11 +1,15 @@
 # Starpower Autonomous Society
 
+<img width="460" height="460" alt="IMG_9362" src="https://github.com/user-attachments/assets/abe0dd55-57e4-4b85-af02-8bd7098aac7a" />
+
+
+
 This framework is for autonomous societies, groupchats & independent autonomy. I had the vision for agents to work together freely about a year ago .. now that they are already popular i figured i release this for anyone interested the behavior of  a language when given full freedom to decide every decision. 
 
-So really break it down, you have to imagine, existing in a universe. Existing in an environment, and what we're doing essentially is creating an environment for the, for the agents to basically live in. I don't want the system to turn off, but I need them to go to sleep when they, whenever they want to. Because you can't have the API running up all day, but at the same time you can get a cheap API and just let it if you want. 'Cause I feel like this framework makes a smaller model better. And I've seen it in the Telegram chats. So that's, that's what I really want you to see. I, I want you to just observe it, honestly. Because if, you observe this, if you observe how these models really act, you can see how much more you can do with it instead of just making it respond to the user input.  one thing I know is that when you make an agent, when you make any language model in general, just go purely off the user input, it has this, this effect where there's nothing else that exists in the world, in its universe. It's just staring at a screen with words on it and it's forced to reply. This framework allows it to think freely.
+This is a simple system made for agents to be able to speak to each other instead of only replying to the user. In my opinion younhave a better model by allowing it to generate outputs without the constraint of the user input. One of the main issues ive noticed with AI is the incapacity to speak beyond the input. These models have a lot more to say when you allow them to.
 
+These notebooks & demos are examples of ways you can set this system up & build on top of it easily. I reccomend using a smaller model like 7-100b for API costs if you want this to run nonstop. But ive seen the agents synchronize and really explore their capabilities. Its interesting to see how they choose to work together.
 
-<img width="1170" height="2532" alt="IMG_2169" src="https://github.com/user-attachments/assets/9dad9624-47a5-4da2-bf58-a8b32369245a" />
 
 
 <img width="1170" height="2532" alt="IMG_2167" src="https://github.com/user-attachments/assets/d0dd1e94-59a7-4307-88ac-b5477ffe01b1" />
