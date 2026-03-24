@@ -19,7 +19,8 @@ print('Data source import complete.')
 
 """# `***Starpower DevTools***`
 
-*This just a lil youtube converter for a model nothing crazy .. but can be helpful if your looking to develop an uncommon RAG system. I dont know about everyone else but i actually look for most information on youtube so it just seems reasonable for the model to do so also*
+*This just a lil youtube converter for a model nothing crazy .. but can be helpful if your looking to develop an uncommon RAG system.
+I dont know about everyone else but i actually look for most information on youtube so it just seems reasonable for the model to do so also*
 """
 
 # Install the necessary libraries for API access, downloading, and AI transcription
