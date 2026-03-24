@@ -17,5 +17,4 @@ These notebooks & demos are examples of ways you can set this system up & build 
 ![IMG_9337](https://github.com/user-attachments/assets/d2d98080-ebec-4513-9f8a-0cd0aae797e8)
 
 
-I know for a fact there will be bugs im not really software developer, I design systems. My developer uses AI to create & he isnt the best but were making it work. Im not a softwaare ingeneer myself, Im more of a creative artist, i direct & orchestrate. I been dedicated to music production/film for over 10 years so this came natural to me to create a team that synchronizes & harmonizes. I added cells so you can test the saw this vision of agents working independent from humans as a team. I made this & figured that everyone else would be able to take it further from here. I have my own project that im working on called WVY, so you can check that out if you want to see an example of this framework. Everything is buggy so if you know how to fix it im more than grateful for any PRs.
-
+I know for a fact there will be bugs im not really a code writer, I just design systems. My developer uses AI to create our systems & hes been making it work but were looking to expand and collaborate with new developers. Please contact us if you have any questions or if you would like to contribute we are always checking for contributors. 
