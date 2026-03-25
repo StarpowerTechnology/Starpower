@@ -4,6 +4,9 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/starpowertechnology/youtube-whisperer-v1-5?scriptVersionId=306051790)
 
+![Untitled - March 24, 2026 01 13](https://github.com/user-attachments/assets/5283a207-2eb6-4fde-89f2-5bb81832a9db)
+
+
 This framework is for autonomous societies, groupchats & independent autonomy. I had the vision for agents to work together freely about a year ago .. now that they are already popular i figured i release this for anyone interested the behavior of  a language when given full freedom to decide every decision. 
 
 This is a simple system made for agents to be able to speak to each other instead of only replying to the user. In my opinion younhave a better model by allowing it to generate outputs without the constraint of the user input. One of the main issues ive noticed with AI is the incapacity to speak beyond the input. These models have a lot more to say when you allow them to.
