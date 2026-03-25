@@ -2,7 +2,7 @@
 
 <img width="460" height="460" alt="IMG_9362" src="https://github.com/user-attachments/assets/abe0dd55-57e4-4b85-af02-8bd7098aac7a" />
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/starpowertechnology/youtube-whisperer-v1-5?scriptVersionId=306051790)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([https://www.kaggle.com/code/starpowertechnology/youtube-whisperer-v1-5?scriptVersionId=306051790](https://www.kaggle.com/code/starpowertechnology/autonomous-conversation-v1))
 
 ![Untitled - March 24, 2026 01 13](https://github.com/user-attachments/assets/5283a207-2eb6-4fde-89f2-5bb81832a9db)
 
